@@ -8,5 +8,5 @@ This project is a flutter business card app with an avatar image, name, role, co
 
 A few resources used for the project:
 
-- [https://fonts.google.com/specimen/Pacifico?query=Pacifico](https://flutter.dev/docs/get-started/codelab)
+- [Pacifico](https://fonts.google.com/specimen/Pacifico?query=Pacifico)
 - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro?query=Sans+pro)
