@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               color: Colors.indigo[100], letterSpacing: 5.0
             ),),
             SizedBox(
-              height: 30.0,
+              height: 35.0,
               width: 200.0,
               child: Divider(
                 color: Colors.white,
@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
               child: Card(
                 child: ListTile(
                   leading: Icon(Icons.call, color: Colors.indigo),
-                  title: Text('+233 123 456 789', style: TextStyle(fontSize:15.0, fontFamily: 'Source Sans Pro',
+                  title: Text('+233 106 7568 906', style: TextStyle(fontSize:15.0, fontFamily: 'Source Sans Pro',
                     fontWeight: FontWeight.bold
                   ),),
                 ),
